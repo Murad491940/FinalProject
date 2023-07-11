@@ -9,14 +9,19 @@ namespace FinalProject.Models
 {
     class Sale
     {
-        public Sale(string saleNumber) 
+        public Sale(string saleNumber,decimal price,SaleItem item,DateTime saletime) 
         { 
             SaleNumber = saleNumber;
+            SalePrice = price;
+            Item = item;
+            SaleTime = saletime;
+
+
         }
         
         public string SaleNumber { get; set; }
         public decimal SalePrice { get; set; }
-        public SaleItem İtem { get; set; }   
+        public SaleItem Item { get; set; }   
         public DateTime SaleTime { get; set; } 
 
        
