@@ -9,7 +9,7 @@ namespace FinalProject.Models
 {
     class Sale
     {
-        public Sale(string saleNumber,decimal price,SaleItem item,DateTime saletime) 
+        public Sale(string saleNumber,decimal price,SaleItem item,string saletime) 
         { 
             SaleNumber = saleNumber;
             SalePrice = price;
@@ -22,7 +22,7 @@ namespace FinalProject.Models
         public string SaleNumber { get; set; }
         public decimal SalePrice { get; set; }
         public SaleItem Item { get; set; }   
-        public DateTime SaleTime { get; set; } 
+        public string SaleTime { get; set; } 
 
        
     }

@@ -10,12 +10,12 @@ namespace FinalProject.Services
 {
     interface IMarketable
     {
-        public Sale[] Sales { get; set; }
+        public Sale[] Sales { get;}
 
-        void AddSale(string salenumber, decimal price, SaleItem sale, DateTime dateTime);
+        void AddSale(string salenumber, decimal price, SaleItem sale, string saletime);
         Product[] GetProduct();
         Sale[] GetAllProducts();
-        Sale[] Time(DateTime saletime);
+        Sale[] Time(string saletime);
         Sale[] Price(decimal price);
         Sale[] SaleNumber(string salenumber);
         void AddProduct(string name, string surname, ProductCategory category, string productCount, string productId);

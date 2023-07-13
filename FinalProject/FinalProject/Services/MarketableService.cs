@@ -10,21 +10,38 @@ namespace FinalProject.Services
 {
     class MarketableService : IMarketable
     {
-        public Sale[] Sales { get; set; }
+
+        private Sale[] _sales; 
+        public Sale[] Products { get { return _sales; } }
+
+        public void AddSale(string salenumber, decimal price, SaleItem sale, string saletime)
+        {
+            foreach (Sale item in _sales)
+            {
+                if (item.SaleNumber==salenumber)
+                {
+                    return;
+                }
+            }
+            Sale _sale=new Sale(salenumber,price,sale,saletime);
+            Array.Resize(ref _sales,_sales.Length-1);
+            _sales[_sales.Length - 1] = _sale;
+
+
+        }
+
+
 
         public void AddProduct(string name, string surname, ProductCategory category, string productCount, string productId)
         {
-            throw new NotImplementedException();
+           
         }
 
-        public void AddSale(string salenumber, decimal price, SaleItem sale, DateTime dateTime)
-        {
-            throw new NotImplementedException();
-        }
+       
 
         public void EditProduct(string name, string surname, ProductCategory category, string productCount)
         {
-            throw new NotImplementedException();
+           
         }
 
         public Sale[] GetAllProducts()

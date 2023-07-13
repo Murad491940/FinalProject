@@ -1,4 +1,6 @@
-﻿namespace FinalProject
+﻿using FinalProject.Services;
+
+namespace FinalProject
 {
     internal class Program
     {
@@ -48,6 +50,9 @@
 
             }
             while(option != 3);
+
+            MarketableService marketableService = new MarketableService();
+            marketableService.AddSale("1", 100, Enums.SaleItem.Product,"10.04.2027");
         }
     }
 }
