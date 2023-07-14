@@ -20,7 +20,7 @@ namespace FinalProject.Services
         Sale[] SaleNumber(string salenumber);
         void AddProduct(string name, string surname, ProductCategory category, string productCount, string productId);
         void EditProduct(string name, string surname, ProductCategory category, string productCount);
-        Sale[] ProductCatewgory(ProductCategory category);
+        Sale[] ProductCategory(ProductCategory category);
         Product[] ProductPrice(decimal price);
         Product[] ProductSearch(string name);
 
