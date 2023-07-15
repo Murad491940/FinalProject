@@ -13,3 +13,5 @@ C:\Users\User\OneDrive\Desktop\FinalProject\FinalProject\FinalProject\obj\Debug\
 C:\Users\User\OneDrive\Desktop\FinalProject\FinalProject\FinalProject\obj\Debug\net7.0\FinalProject.pdb
 C:\Users\User\OneDrive\Desktop\FinalProject\FinalProject\FinalProject\obj\Debug\net7.0\FinalProject.genruntimeconfig.cache
 C:\Users\User\OneDrive\Desktop\FinalProject\FinalProject\FinalProject\obj\Debug\net7.0\ref\FinalProject.dll
+C:\Users\User\OneDrive\Desktop\FinalProject\FinalProject\FinalProject\bin\Debug\net7.0\ConsoleTables.dll
+C:\Users\User\OneDrive\Desktop\FinalProject\FinalProject\FinalProject\obj\Debug\net7.0\FinalProject.csproj.CopyComplete
