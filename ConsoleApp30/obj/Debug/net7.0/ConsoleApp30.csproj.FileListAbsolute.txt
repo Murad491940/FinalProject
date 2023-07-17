@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\net7.0\ConsoleApp30.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\net7.0\ConsoleApp30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\net7.0\ConsoleApp30.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\net7.0\ConsoleApp30.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\net7.0\ConsoleApp30.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\net7.0\ConsoleApp30.exe
+C:\Users\User\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\net7.0\ConsoleApp30.deps.json
+C:\Users\User\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\net7.0\ConsoleApp30.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\net7.0\ConsoleApp30.dll
+C:\Users\User\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\net7.0\ConsoleApp30.pdb
+C:\Users\User\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\net7.0\ConsoleTables.dll
+C:\Users\User\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\net7.0\ConsoleApp30.csproj.CopyComplete
+C:\Users\User\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\net7.0\ConsoleApp30.dll
+C:\Users\User\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\net7.0\refint\ConsoleApp30.dll
+C:\Users\User\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\net7.0\ConsoleApp30.pdb
+C:\Users\User\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\net7.0\ConsoleApp30.genruntimeconfig.cache
+C:\Users\User\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\net7.0\ref\ConsoleApp30.dll
